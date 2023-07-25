@@ -11,6 +11,9 @@ return jsonString would be
 To build this project download the code to VSCode and then open terminal and run 
 dotnet build
 
+To package this project to be used in UiPath run
+dotnet pack
+
 This should build the project both in .net461 and net6.0 windows
 
 You can run this project using the TestRunner console app by running
