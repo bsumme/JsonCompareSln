@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonComparer", "JsonComparer\JsonComparer.csproj", "{066A62E6-AD10-48D8-BE7C-2AD8F7D6A5A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonComparer", "JsonComparer\UiPath.JsonComparer.Activities.csproj", "{066A62E6-AD10-48D8-BE7C-2AD8F7D6A5A9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRunner", "TestRunner\TestRunner.csproj", "{CCF66E2D-57C4-4CDB-AFEC-316A02306991}"
 EndProject

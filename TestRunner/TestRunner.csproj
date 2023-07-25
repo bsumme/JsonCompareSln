@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\JsonComparer\JsonComparer.csproj" />
+    <ProjectReference Include="..\JsonComparer\UiPath.JsonComparer.Activities.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

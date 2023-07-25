@@ -36,7 +36,7 @@ public class JsonComparer : CodeActivity
             
             JToken diffJsonNested = JsonComparer.GetJsonDifference(J1Leafs,  J2Leafs);
 
-            ResultString.Set(context, diffJsonNested.ToString());
+            ResultString.Set(context, diffJsonNested is null ? "" : diffJsonNested.ToString());
         }
     
 
